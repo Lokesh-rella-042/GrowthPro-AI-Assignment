@@ -45,8 +45,7 @@ POST /business-data – Returns mock data for a given business name & location
 GET /regenerate-headline – Returns a new random SEO headline
 
 ```bash
-git clone https://github.com/Lokesh-rella-042/GrowthPro-AI-Assignment.git
-
+git clone https://github.com/Lokesh-rella-042/GrowthPro-AI-Assignment
 
 
 
